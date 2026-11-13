@@ -1,4 +1,4 @@
-# PulsePlayer
+# Aether
 
 A minimalist Android music player for your local music and online radio.
 Egy letisztult Android zenelejátszó helyi zenékhez és online rádióhoz.
