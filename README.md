@@ -28,3 +28,4 @@ The APK is built automatically by GitHub Actions (`.github/workflows/build.yml`)
 ## Credits
 
 Created by **sugoicap**. Uses Jetpack Compose, Media3, Coil and the Radio Browser API.
+Copyright © 2026 Sugoicap. All rights reserved.
